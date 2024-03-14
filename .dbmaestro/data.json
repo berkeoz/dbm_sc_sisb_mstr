@@ -10,19 +10,7 @@
             "EnvironmentId": "daa8e790-8542-4cad-a98a-3d000d0f7cb3",
             "EnvironmentName": "Dev_Env_1",
             "EnvironmentType": "DEV",
-            "Databases": [
-              {
-                "DatabaseId": "930feeb8-1470-4ae9-b006-d6ddb4a11636",
-                "DatabaseAliasName": "SISB_DB1",
-                "DatabaseConnectionDetails": null,
-                "RepositoryDetails": {
-                  "$type": "DOP.SourceControl.ExternalSourceControl.Git.Models.GitRepositoryDetails, DOP.SourceControl.ExternalSourceControl.Git",
-                  "RemoteRepositoryURL": "https://github.com/berkeoz/dbm_sc_sisb_db1",
-                  "RemoteBranchName": "main",
-                  "LocalBranchName": "main"
-                }
-              }
-            ]
+            "Databases": []
           }
         ],
         "SourceControlPathType": 0,
@@ -47,18 +35,7 @@
       "UserData": [
         {
           "UserName": "berkeoz",
-          "DatabasesData": [
-            {
-              "DatabaseId": "930feeb8-1470-4ae9-b006-d6ddb4a11636",
-              "DatabaseAliasName": "SISB_DB1",
-              "DatabaseConnectionDetails": null,
-              "BranchesDatabaseConnectionDetails": null,
-              "RepositoryCredentials": {
-                "UserName": "berkeoz",
-                "Password": "OwpWlkWmltynchlAGzUVJhagkl4gbzNshplobMMz7PjSNDNYC+pPI+/W6mO5R+Lj"
-              }
-            }
-          ]
+          "DatabasesData": []
         },
         {
           "UserName": "#ALL",
