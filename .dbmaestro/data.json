@@ -10,19 +10,7 @@
             "EnvironmentId": "8a196384-0d8a-4edb-a91b-1edbe0acad27",
             "EnvironmentName": "Dev_Env_1",
             "EnvironmentType": "DEV",
-            "Databases": [
-              {
-                "DatabaseId": "11b61d0a-0e95-484f-90e4-c2db8c7d9139",
-                "DatabaseAliasName": "SISB_DB1",
-                "DatabaseConnectionDetails": null,
-                "RepositoryDetails": {
-                  "$type": "DOP.SourceControl.ExternalSourceControl.Git.Models.GitRepositoryDetails, DOP.SourceControl.ExternalSourceControl.Git",
-                  "RemoteRepositoryURL": "https://github.com/israelys/TestBerkeIssue.git",
-                  "RemoteBranchName": "main",
-                  "LocalBranchName": "main"
-                }
-              }
-            ]
+            "Databases": []
           }
         ],
         "SourceControlPathType": 0,
@@ -47,18 +35,7 @@
       "UserData": [
         {
           "UserName": "berkeoz",
-          "DatabasesData": [
-            {
-              "DatabaseId": "11b61d0a-0e95-484f-90e4-c2db8c7d9139",
-              "DatabaseAliasName": "SISB_DB1",
-              "DatabaseConnectionDetails": null,
-              "BranchesDatabaseConnectionDetails": null,
-              "RepositoryCredentials": {
-                "UserName": "israelys",
-                "Password": "oHIuL13rDIR4ThHvI9olh8Tt7+vciE87t6rm2w6RlOA1vVW8BuEtGuE/GiA7+Gu8"
-              }
-            }
-          ]
+          "DatabasesData": []
         },
         {
           "UserName": "#ALL",
