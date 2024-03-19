@@ -1,9 +1,0 @@
-{
-  "Projects": [],
-  "GlobalConfigurations": null,
-  "RepositoryConfiguration": null,
-  "GeneralConfigurations": {
-    "SupportMultiDatabasePerProject": false,
-    "SaveObjectScopeAtProjectLevel": true
-  }
-}
