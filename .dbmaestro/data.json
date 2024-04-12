@@ -78,6 +78,17 @@
                     "dbName": "SISB_DB1",
                     "Password": "do1NBD0OcmAl1jAcpH7iWg=="
                   }
+                },
+                {
+                  "BranchName": "test",
+                  "DatabaseConnectionDetails": {
+                    "DBTypeName": "SQL Server",
+                    "host": "WIN-U036DAHSO11\\SQLSERVER",
+                    "authType": "SqlAuthentication",
+                    "userName": "sa",
+                    "dbName": "SISB_DB4",
+                    "Password": "do1NBD0OcmAl1jAcpH7iWg=="
+                  }
                 }
               ],
               "RepositoryCredentials": null
