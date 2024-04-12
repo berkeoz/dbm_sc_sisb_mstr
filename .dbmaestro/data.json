@@ -83,6 +83,21 @@
               "RepositoryCredentials": null
             }
           ]
+        },
+        {
+          "UserName": "bozberkeoz",
+          "DatabasesData": [
+            {
+              "DatabaseId": "9a7cc1e4-cf0c-42d1-8dcb-fb6448b9be8c",
+              "DatabaseAliasName": "SISB_DB1",
+              "DatabaseConnectionDetails": null,
+              "BranchesDatabaseConnectionDetails": null,
+              "RepositoryCredentials": {
+                "UserName": "bozberkeoz",
+                "Password": "OwpWlkWmltynchlAGzUVJhagkl4gbzNshplobMMz7PjSNDNYC+pPI+/W6mO5R+Lj"
+              }
+            }
+          ]
         }
       ],
       "DatabasesStaticDataObjects": null,
