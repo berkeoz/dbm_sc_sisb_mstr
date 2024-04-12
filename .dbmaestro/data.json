@@ -100,8 +100,28 @@
           ]
         }
       ],
-      "DatabasesStaticDataObjects": null,
-      "DatabasesScopeObjects": null
+      "DatabasesStaticDataObjects": [
+        {
+          "StaticDataObjects": [
+            {
+              "UniqueIndex": "DBM_id_ASC",
+              "schema": "dbo",
+              "name": "Table1",
+              "type": "Table"
+            }
+          ],
+          "DatabaseId": "9a7cc1e4-cf0c-42d1-8dcb-fb6448b9be8c",
+          "DatabaseAliasName": "SISB_DB1"
+        }
+      ],
+      "DatabasesScopeObjects": [
+        {
+          "ExcludeObjects": [],
+          "IncludeObjects": [],
+          "DatabaseId": "9a7cc1e4-cf0c-42d1-8dcb-fb6448b9be8c",
+          "DatabaseAliasName": "SISB_DB1"
+        }
+      ]
     },
     {
       "GlobalData": {
