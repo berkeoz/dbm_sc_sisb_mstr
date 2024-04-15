@@ -72,7 +72,7 @@
                   "BranchName": "main",
                   "DatabaseConnectionDetails": {
                     "DBTypeName": "SQL Server",
-                    "host": "WIN-U036DAHSO11\\SQLSERVER",
+                    "host": "dopx-berke\\SQLSERVER",
                     "authType": "SqlAuthentication",
                     "userName": "sa",
                     "dbName": "SISB_DB1",
@@ -83,7 +83,7 @@
                   "BranchName": "test",
                   "DatabaseConnectionDetails": {
                     "DBTypeName": "SQL Server",
-                    "host": "WIN-U036DAHSO11\\SQLSERVER",
+                    "host": "dopx-berke\\SQLSERVER",
                     "authType": "SqlAuthentication",
                     "userName": "sa",
                     "dbName": "SISB_DB4",
@@ -206,7 +206,7 @@
                   "BranchName": "main",
                   "DatabaseConnectionDetails": {
                     "DBTypeName": "SQL Server",
-                    "host": "WIN-U036DAHSO11\\SQLSERVER",
+                    "host": "dopx-berke\\SQLSERVER",
                     "authType": "SqlAuthentication",
                     "userName": "sa",
                     "dbName": "SISB_DB2",
@@ -294,7 +294,7 @@
                   "BranchName": "main",
                   "DatabaseConnectionDetails": {
                     "DBTypeName": "SQL Server",
-                    "host": "WIN-U036DAHSO11\\SQLSERVER",
+                    "host": "dopx-berke\\SQLSERVER",
                     "authType": "SqlAuthentication",
                     "userName": "sa",
                     "dbName": "SISB_DB3",
