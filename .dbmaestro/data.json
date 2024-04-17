@@ -1,0 +1,44 @@
+{
+  "Projects": [
+    {
+      "GlobalData": {
+        "ProjectId": "8493a572-0de1-4978-ad8c-f9e8ba1e4bd1",
+        "ProjectName": "SISB_SH",
+        "DBTypeName": "SQL Server",
+        "Environments": null,
+        "SourceControlPathType": 0,
+        "Configuration": {
+          "BuildMigrationScriptAutomatically": true,
+          "DBConfiguration": {
+            "MetadataConfiguration": {},
+            "ValidationConfiguration": {},
+            "BuildConfiguration": {}
+          },
+          "NumberOfRevisionsInViewHistory": 10,
+          "NumberOfTagsInBuildOptions": 10,
+          "NumberOfDaysBuildByTaskIsRelevant": 30,
+          "PreventCommitObjectWithConflict": false,
+          "SaveObjectScopeAtProjectLevel": null,
+          "UseCache": null,
+          "IgnoreTextualChangesBasedOnMetadata": true
+        },
+        "ProjectArchitecture": 1,
+        "LocalDirectory": ""
+      },
+      "UserData": [
+        {
+          "UserName": "berkeoz",
+          "DatabasesData": []
+        }
+      ],
+      "DatabasesStaticDataObjects": null,
+      "DatabasesScopeObjects": null
+    }
+  ],
+  "GlobalConfigurations": null,
+  "RepositoryConfiguration": null,
+  "GeneralConfigurations": {
+    "SupportMultiDatabasePerProject": false,
+    "SaveObjectScopeAtProjectLevel": true
+  }
+}
