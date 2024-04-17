@@ -85,7 +85,13 @@
           ]
         }
       ],
-      "DatabasesStaticDataObjects": null,
+      "DatabasesStaticDataObjects": [
+        {
+          "StaticDataObjects": [],
+          "DatabaseId": "e1378298-1cb5-4ebc-9e2c-5b8601f4b285",
+          "DatabaseAliasName": "SISB_DB1"
+        }
+      ],
       "DatabasesScopeObjects": null
     }
   ],
